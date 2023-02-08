@@ -5,3 +5,5 @@ text
 
 add a new line from branch 1!
 
+add a new line from branch 3!
+
