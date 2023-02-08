@@ -5,3 +5,4 @@ text
 
 add a new line from branch 1!
 
+another line from branch 2
